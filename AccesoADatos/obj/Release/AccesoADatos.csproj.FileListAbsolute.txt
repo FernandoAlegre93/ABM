@@ -1,0 +1,5 @@
+D:\Backup\ABM_FINAL\ABMFINAL\AccesoADatos\bin\Release\AccesoADatos.dll
+D:\Backup\ABM_FINAL\ABMFINAL\AccesoADatos\bin\Release\AccesoADatos.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\AccesoADatos\obj\Release\AccesoADatos.csproj.CoreCompileInputs.cache
+D:\Backup\ABM_FINAL\ABMFINAL\AccesoADatos\obj\Release\AccesoADatos.dll
+D:\Backup\ABM_FINAL\ABMFINAL\AccesoADatos\obj\Release\AccesoADatos.pdb

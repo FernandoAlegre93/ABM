@@ -1,0 +1,9 @@
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\bin\Release\LNEGOCIOS.dll
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\bin\Release\LNEGOCIOS.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\bin\Release\AccesoADatos.dll
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\bin\Release\AccesoADatos.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\obj\Release\LNEGOCIOS.csprojAssemblyReference.cache
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\obj\Release\LNEGOCIOS.csproj.CoreCompileInputs.cache
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\obj\Release\LNEGOCIOS.csproj.CopyComplete
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\obj\Release\LNEGOCIOS.dll
+D:\Backup\ABM_FINAL\ABMFINAL\LNEGOCIOS\obj\Release\LNEGOCIOS.pdb

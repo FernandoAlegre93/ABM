@@ -1,0 +1,17 @@
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\VISTA.exe.config
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\VISTA.exe
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\VISTA.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\LNEGOCIOS.dll
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\AccesoADatos.dll
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\LNEGOCIOS.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\bin\Release\AccesoADatos.pdb
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.csprojAssemblyReference.cache
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.FrmAgregarFecha.resources
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.Busqueda.resources
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.form1.resources
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.Properties.Resources.resources
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.csproj.GenerateResource.cache
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.csproj.CoreCompileInputs.cache
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.csproj.CopyComplete
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.exe
+D:\Backup\ABM_FINAL\ABMFINAL\VISTA\obj\Release\VISTA.pdb
